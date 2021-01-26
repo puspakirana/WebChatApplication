@@ -1,0 +1,61 @@
+*
+{
+    color: white;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)) , url(../images/account.jpg);
+}
+
+
+
+*CONTACT*/
+
+/*header*/
+.contactbackground
+{
+    background: rgba(222,222,222,1);
+    padding-bottom: 5px;
+    justify-content: center;
+}
+.contactheader
+{
+    background-image: url(../images/contactme.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+
+/*contact form*/
+
+.contact hr
+{
+    background: white;
+}
+
+.contact
+{
+    border-radius: 30px;
+    background: rgba(128,128,128,0.5);
+    color: white;
+    padding: 20px;
+    margin: 100px;
+    justify-content: center;
+}
+
+
+.btncolor2
+{
+    font-size: 20px;
+    padding: 10px;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border-radius: 10px;
+    cursor: pointer;
+}
