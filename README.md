@@ -1,7 +1,7 @@
 # WebChatApplication
-A web-based chatting application
+A web-based chatting application. Users need to make an account to be able to text to each other using the web app.
 
-Please build the database first before run the project.
+Project is built using PHP, HTML, CSS, and JavaScript.
+Database: phpmyadmin
+Required softwares: XAMPP, browser
 
-This project is a development from a source code.
-Source code: Coding Cafe (Youtube)
